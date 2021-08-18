@@ -1,0 +1,37 @@
+#calc-container {
+  display: grid;
+  grid-template-columns: repeat(4, 120px);
+  grid-template-rows: minmax(70px, auto) repeat(5, 70px);
+  background-color: rgb(166, 166, 166);
+}
+
+#output {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  grid-column: span 4;
+  font-size: 30px;
+  background-color: rgb(133, 134, 148);
+  color: white;
+  padding: 5px;
+}
+
+#zero {
+  grid-column: span 2;
+}
+
+#calc-container > button {
+  cursor: pointer;
+  font-size: 1.5rem;
+  border: 1px solid rgb(201, 201, 201);
+}
+
+.equals,
+.add-operator,
+.subtract-operator,
+.multiply-operator,
+.divide-operator {
+  background-color: rgb(255, 140, 0);
+  color: rgb(0, 0, 0);
+  font-size: 2rem;
+}
