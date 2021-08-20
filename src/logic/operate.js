@@ -17,6 +17,9 @@ export default function operate(numberOne, numberTwo, operation) {
   }
 
   if (operation === '÷') {
+    if (numberTwo === '0') {
+      return 'Math ERROR';
+    }
     return one.div(two).toString();
   }
 
