@@ -4,7 +4,7 @@
 
 > Build calculator with React.
 
-<div align="center"><img src="../my-app/src/calculator.png" width="300"/></div>
+<div align="center"><img src="./calculator.png" width="300"/></div>
 
 Mobile ScreenShots
 
