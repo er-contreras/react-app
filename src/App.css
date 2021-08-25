@@ -8,6 +8,10 @@ html {
   font-size: 62.5%;
 }
 
+body {
+  min-height: 100vh;
+}
+
 .App {
   min-height: 100vh;
   display: flex;
@@ -15,7 +19,7 @@ html {
   align-items: center;
 }
 
-.active-link {
-  color: orangered;
-  text-decoration: underline;
+p {
+  margin: 2rem 0;
+  font-size: 1.2rem;
 }
