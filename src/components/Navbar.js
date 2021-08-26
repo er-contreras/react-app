@@ -6,7 +6,7 @@ const Navbar = () => { // eslint-disable-line
   const links = [
     {
       id: 1,
-      path: '/',
+      path: '/home',
       text: 'Home',
     },
     {

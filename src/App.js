@@ -11,7 +11,7 @@ const App = () => { // eslint-disable-line
     <>
       <Navbar />
       <Switch>
-        <Route exact path="/">
+        <Route exact path="/home">
           <Home />
         </Route>
 
