@@ -1,7 +1,7 @@
 import operate from '../logic/operate'
 const assert = require('assert')
  
-describe('Test sum function', () => {
+describe('Test operate function', () => {
   it('It shoud be 3', () => {
     assert(operate(1, 2, '+') === '3')
   });
