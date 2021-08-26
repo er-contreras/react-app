@@ -14,7 +14,7 @@ Mobile ScreenShots
 
 ## Live Demo
 
-[Live Demo Link](https://eri8-9.github.io/react-app/)
+[Live Demo Link](https://eri8-9.github.io/react-app/#/home)
 
 ## Getting Started
 
