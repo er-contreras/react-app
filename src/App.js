@@ -11,11 +11,11 @@ const App = () => { // eslint-disable-line
     <>
       <Navbar />
       <Switch>
-        <Route path="/home">
+        <Route exact path="/">
           <Home />
         </Route>
 
-        <Route exact path="/Calculator">
+        <Route path="/calculator">
           <div className="App">
             <Calculator />
           </div>

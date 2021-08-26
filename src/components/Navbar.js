@@ -6,12 +6,12 @@ const Navbar = () => { // eslint-disable-line
   const links = [
     {
       id: 1,
-      path: '/home',
+      path: '/',
       text: 'Home',
     },
     {
       id: 2,
-      path: '/Calculator',
+      path: '/calculator',
       text: 'Calculator',
     },
     {
