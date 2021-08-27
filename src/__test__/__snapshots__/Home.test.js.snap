@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home test Should render same text passed into ... 1`] = `
+<div
+  style={
+    Object {
+      "fontSize": "1rem",
+      "margin": "2rem 0",
+    }
+  }
+>
+  <h2
+    style={
+      Object {
+        "margin": "2rem 0",
+      }
+    }
+  >
+    Welcome to our page!
+  </h2>
+  <p>
+    Lorem ipsum odor amet, consectetuer adipiscing elit. Vestibulum magna nostra nunc volutpat eleifend fringilla. Adipiscing in maximus taciti metus conubia urna tellus cursus sagittis. Dis sodales commodo mi egestas libero. Dictum quisque ante urna purus dolor habitant eleifend ex augue. Per blandit curae torquent tempus elit. Potenti fames porttitor elit montes aliquet ullamcorper. Tellus lacinia himenaeos egestas elit ac libero diam.
+  </p>
+  <p>
+    Vestibulum et pharetra, proin ipsum inceptos curae. Egestas nulla morbi ullamcorper tempus vestibulum sed tristique. Arcu a enim varius nec sodales facilisis interdum malesuada congue. Rhoncus tortor eget phasellus pharetra nulla viverra magna urna integer. Vivamus elit suspendisse quisque; risus dictum purus et. Mi maximus nascetur porta nam himenaeos neque feugiat. Consequat ante purus phasellus quam erat. Cubilia nisi aliquam purus etiam tellus.
+  </p>
+</div>
+`;
+
+exports[`Home test renders the main heading 1`] = `
+<h2
+  style="margin: 2rem 0px;"
+>
+  Welcome to our page!
+</h2>
+`;
