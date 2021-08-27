@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar test Should render same text passed into ... 1`] = `
+<nav
+  className="navBar"
+>
+  <div
+    id="title"
+  >
+    <h1>
+      Math Magicians
+    </h1>
+  </div>
+  <ul>
+    <li>
+      <a
+        aria-current={null}
+        href="#/home"
+        onClick={[Function]}
+      >
+        Home
+      </a>
+    </li>
+    <li>
+      <a
+        aria-current={null}
+        href="#/calculator"
+        onClick={[Function]}
+      >
+        Calculator
+      </a>
+    </li>
+    <li>
+      <a
+        aria-current={null}
+        href="#/quote"
+        onClick={[Function]}
+      >
+        Quote
+      </a>
+    </li>
+  </ul>
+</nav>
+`;
+
+exports[`Navbar test Test Calculator 1`] = `
+<a
+  href="#/calculator"
+>
+  Calculator
+</a>
+`;
+
+exports[`Navbar test Test Home 1`] = `
+<a
+  href="#/home"
+>
+  Home
+</a>
+`;
+
+exports[`Navbar test Test Quote 1`] = `
+<a
+  href="#/quote"
+>
+  Quote
+</a>
+`;
+
+exports[`Navbar test renders the main heading 1`] = `
+<h1>
+  Math Magicians
+</h1>
+`;

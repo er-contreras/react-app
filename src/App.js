@@ -1,15 +1,15 @@
 import React from 'react';
 import './App.css';
+import { HashRouter as Router, Route, Switch } from 'react-router-dom';
 import Calculator from './components/Calculator';
-import { Route, Switch } from 'react-router-dom'; // eslint-disable-line
 import Home from './pages/Home';
 import Quote from './pages/Quote';
 import Navbar from './components/Navbar';
 
-const App = () => { // eslint-disable-line
-  return (
-    <>
-      <Navbar />
+const App = () => (
+  <>
+    <Navbar />
+    <Router>
       <Switch>
         <Route exact path="/home">
           <Home />
@@ -25,8 +25,8 @@ const App = () => { // eslint-disable-line
           <Quote />
         </Route>
       </Switch>
-    </>
-  );
-};
+    </Router>
+  </>
+);
 
 export default App;
