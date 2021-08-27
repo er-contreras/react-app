@@ -14,4 +14,4 @@ describe('Quote test', () => {
     const heading = screen.getByText(/William Paul Thurston/i);
     expect(heading).toMatchSnapshot();
   });
-})
+});

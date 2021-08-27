@@ -1,4 +1,4 @@
-import calculate from "../logic/calculate";
+import calculate from '../logic/calculate';
 
 describe('calculate', () => {
   test('it should return a null object when AC button is used', () => {
@@ -13,7 +13,7 @@ describe('calculate', () => {
   test('it returns a null when object is null and zero is entered', () => {
     expect(calculate({ total: null, next: '0', operation: null }, '0')).toEqual({});
   });
-  
+
   test('it returns a negative number', () => {
     expect(calculate({ total: null, next: '5', operation: null }, '+/-')).toEqual({ next: '-5' });
   });

@@ -1,7 +1,7 @@
 import React from 'react';
-import Navbar from '../components/Navbar';
 import TestRenderer from 'react-test-renderer';
 import { render, screen } from '@testing-library/react';
+import Navbar from '../components/Navbar';
 
 describe('Navbar test', () => {
   it('Should render same text passed into ...', () => {
@@ -32,4 +32,4 @@ describe('Navbar test', () => {
     const heading = screen.getByText(/Quote/i);
     expect(heading).toMatchSnapshot();
   });
-})
+});

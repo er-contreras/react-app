@@ -32,4 +32,4 @@ describe('Calculator test', () => {
     const quantity = screen.getByText(/%/i);
     expect(quantity).toMatchSnapshot();
   });
-})
+});

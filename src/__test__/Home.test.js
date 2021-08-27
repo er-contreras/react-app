@@ -14,4 +14,4 @@ describe('Home test', () => {
     const heading = screen.getByText(/Welcome to our page!/i);
     expect(heading).toMatchSnapshot();
   });
-})
+});

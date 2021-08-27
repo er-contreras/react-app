@@ -7,4 +7,4 @@ describe('App test', () => {
     const tree = TestRenderer.create(<App />).toJSON();
     expect(tree).toMatchSnapshot();
   });
-})
+});
