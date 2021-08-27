@@ -19,10 +19,10 @@ exports[`Home test Should render same text passed into ... 1`] = `
     Welcome to our page!
   </h2>
   <p>
-    Lorem ipsum odor amet, consectetuer adipiscing elit. Vestibulum magna nostra nunc volutpat eleifend fringilla. Adipiscing in maximus taciti metus conubia urna tellus cursus sagittis. Dis sodales commodo mi egestas libero. Dictum quisque ante urna purus dolor habitant eleifend ex augue. Per blandit curae torquent tempus elit. Potenti fames porttitor elit montes aliquet ullamcorper. Tellus lacinia himenaeos egestas elit ac libero diam.
+    Lorem ipsum odor amet, consectetuer adipiscing elit. Purus quis posuere erat erat libero mattis tellus dui pretium. Gravida lobortis tellus ultricies ultrices sagittis montes primis. Facilisis eu aptent est et class vehicula euismod. Lorem senectus suspendisse sapien nec ligula interdum dignissim vehicula. Fringilla cursus convallis enim eleifend facilisi suscipit ornare scelerisque. In finibus donec accumsan mollis nullam congue. Nisl consequat feugiat commodo blandit dui tristique blandit suspendisse. Habitasse leo ipsum amet etiam nostra semper leo ornare vel.
   </p>
   <p>
-    Vestibulum et pharetra, proin ipsum inceptos curae. Egestas nulla morbi ullamcorper tempus vestibulum sed tristique. Arcu a enim varius nec sodales facilisis interdum malesuada congue. Rhoncus tortor eget phasellus pharetra nulla viverra magna urna integer. Vivamus elit suspendisse quisque; risus dictum purus et. Mi maximus nascetur porta nam himenaeos neque feugiat. Consequat ante purus phasellus quam erat. Cubilia nisi aliquam purus etiam tellus.
+    Lorem ipsum odor amet, consectetuer adipiscing elit. Purus quis posuere erat erat libero mattis tellus dui pretium. Gravida lobortis tellus ultricies ultrices sagittis montes primis. Facilisis eu aptent est et class vehicula euismod. Lorem senectus suspendisse sapien nec ligula interdum dignissim vehicula. Fringilla cursus convallis enim eleifend facilisi suscipit ornare scelerisque. In finibus donec accumsan mollis nullam congue. Nisl consequat feugiat commodo blandit dui tristique blandit suspendisse. Habitasse leo ipsum amet etiam nostra semper leo ornare vel.
   </p>
 </div>
 `;
