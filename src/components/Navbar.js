@@ -1,5 +1,5 @@
 import React from 'react';
-import { NavLink } from 'react-router-dom';
+import { HashRouter as Router, NavLink } from 'react-router-dom';
 import styles from './NavBar.module.css';
 
 const Navbar = () => {
@@ -29,9 +29,11 @@ const Navbar = () => {
       <ul>
         {links.map((link) => (
           <li key={link.id}>
-            <NavLink to={link.path} activeClassName={styles.activelink}>
-              {link.text}
-            </NavLink>
+            <Router>
+              <NavLink to={link.path} activeClassName={styles.activelink}>
+                {link.text}
+              </NavLink>
+            </Router>
           </li>
         ))}
       </ul>

@@ -1,0 +1,189 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Calculator test Should render same text passed into ... 1`] = `
+Array [
+  <div
+    className="lets-do"
+  >
+    <p>
+      Lets do some math!
+    </p>
+  </div>,
+  <div
+    id="calc-container"
+  >
+    <div
+      id="output"
+    >
+        
+    </div>
+    <button
+      className="ac"
+      onClick={[Function]}
+      type="button"
+    >
+      AC
+    </button>
+    <button
+      className="quantity"
+      onClick={[Function]}
+      type="button"
+    >
+      +/-
+    </button>
+    <button
+      className="percentage-operator"
+      onClick={[Function]}
+      type="button"
+    >
+      %
+    </button>
+    <button
+      className="divide-operator"
+      onClick={[Function]}
+      type="button"
+    >
+      ÷
+    </button>
+    <button
+      className="number"
+      onClick={[Function]}
+      type="button"
+    >
+      7
+    </button>
+    <button
+      className="number"
+      onClick={[Function]}
+      type="button"
+    >
+      8
+    </button>
+    <button
+      className="number"
+      onClick={[Function]}
+      type="button"
+    >
+      9
+    </button>
+    <button
+      className="multiply-operator"
+      onClick={[Function]}
+      type="button"
+    >
+      x
+    </button>
+    <button
+      className="number"
+      onClick={[Function]}
+      type="button"
+    >
+      4
+    </button>
+    <button
+      className="number"
+      onClick={[Function]}
+      type="button"
+    >
+      5
+    </button>
+    <button
+      className="number"
+      onClick={[Function]}
+      type="button"
+    >
+      6
+    </button>
+    <button
+      className="subtract-operator"
+      onClick={[Function]}
+      type="button"
+    >
+      -
+    </button>
+    <button
+      className="number"
+      onClick={[Function]}
+      type="button"
+    >
+      1
+    </button>
+    <button
+      className="number"
+      onClick={[Function]}
+      type="button"
+    >
+      2
+    </button>
+    <button
+      className="number"
+      onClick={[Function]}
+      type="button"
+    >
+      3
+    </button>
+    <button
+      className="add-operator"
+      onClick={[Function]}
+      type="button"
+    >
+      +
+    </button>
+    <button
+      className="number"
+      id="zero"
+      onClick={[Function]}
+      type="button"
+    >
+      0
+    </button>
+    <button
+      className="number"
+      onClick={[Function]}
+      type="button"
+    >
+      .
+    </button>
+    <button
+      className="equals"
+      onClick={[Function]}
+      type="button"
+    >
+      =
+    </button>
+  </div>,
+]
+`;
+
+exports[`Calculator test Test % 1`] = `
+<button
+  class="percentage-operator"
+  type="button"
+>
+  %
+</button>
+`;
+
+exports[`Calculator test Test +/- 1`] = `
+<button
+  class="quantity"
+  type="button"
+>
+  +/-
+</button>
+`;
+
+exports[`Calculator test Test AC 1`] = `
+<button
+  class="ac"
+  type="button"
+>
+  AC
+</button>
+`;
+
+exports[`Calculator test renders the main heading 1`] = `
+<p>
+  Lets do some math!
+</p>
+`;
