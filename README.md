@@ -14,7 +14,7 @@ Mobile ScreenShots
 
 ## Live Demo
 
-[Live Demo Link](https://eri8-9.github.io/react-app/#/home)
+[Live Demo Link](https://er-contreras.github.io/react-app/#/home)
 [Heroku](https://math-magicians-0.herokuapp.com/)
 [Netlify](https://eager-euclid-20253f.netlify.app/)
 
@@ -41,9 +41,9 @@ Mobile ScreenShots
 
 👤 **Christian Erick Contreras**
 
-- GitHub: [@eri8-9](https://github.com/eri8-9)
-- Linkedin: [LinkedIn](https:linkedin.com/in/christian-erick-contreras-9945b820b)
-- Twitter: [@ChristianErick_](https://twitter.com/ChristianErick_)
+- GitHub: [@eri8-9](https://github.com/er-contreras)
+- Linkedin: [LinkedIn](https:linkedin.com/in/er-contreras)
+- Twitter: [@ChristianErick_](https://twitter.com/er_contreras_)
 
 ## Show your support
 
