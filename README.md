@@ -3,8 +3,7 @@
 # Calculator
 
 > Build calculator with React.
-
-<div align="center"><img src="./calculator.png" width="300"/></div>
+![Screenshot 2024-01-30 at 21 34 45](https://github.com/er-contreras/react-app/assets/67211919/ec032aef-86f5-47c6-b800-9f78e929a84b)
 
 Mobile ScreenShots
 
@@ -15,8 +14,6 @@ Mobile ScreenShots
 ## Live Demo
 
 [Live Demo Link](https://er-contreras.github.io/react-app/#/home)
-[Heroku](https://math-magicians-0.herokuapp.com/)
-[Netlify](https://eager-euclid-20253f.netlify.app/)
 
 ## Getting Started
 
